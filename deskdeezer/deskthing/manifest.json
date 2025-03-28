@@ -1,0 +1,27 @@
+{
+  "label": "deskdeezer",
+  "tags": [
+    "utilityOnly",
+    "webappOnly"
+  ],
+  "requires": [
+    "audiosource"
+  ],
+  "version": "0.10.11",
+  "requiredVersions": {
+    "server": ">=0.0.0",
+    "client": ">=0.11.0"
+  },
+  "description": "My 1st app so please feel free to comment or improve my attempt to put a deezer controller on Deskthing",
+  "author": "Madness666",
+  "platforms": [
+    "windows",
+    "android",
+    "ios"
+  ],
+  "repository": "tbc",
+  "homepage": "tbc",
+  "updateUrl": "tbc",
+  "id": "deskdeezer",
+  "template": "full"
+}
